@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tech-ola
 - 👀 I’m interested in Web app and Mobile app Development.
-- 🌱 I’m currently learning Flutter.
 - 💞️ I’m looking to collaborate on Web app and Mobile app Development.
 - 📫 How to reach me olayinkaalabi191@gmail.com
 
